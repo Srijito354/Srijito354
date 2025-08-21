@@ -1,4 +1,4 @@
-![Boy coding in haloween night](profile_image.png)
+<img src="profile_image.jpg" alt="Alt Text" width="200" height="100">
 
 ## Hi there 👋
 
