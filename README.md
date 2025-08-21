@@ -1,4 +1,4 @@
-![Boy coding in haloween night](ChatGPT Image Aug 19, 2025, 03_45_36 PM.png)
+![Boy coding in haloween night](profile_image.png)
 
 ## Hi there 👋
 
