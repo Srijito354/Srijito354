@@ -1,4 +1,4 @@
-![Boy coding in haloween night](Srijito354\profile_image.png)
+![Boy coding in haloween night](Srijito354/profile_image.png)
 
 ## Hi there 👋
 
