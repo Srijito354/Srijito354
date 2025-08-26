@@ -1,4 +1,4 @@
-![image](Srijito354/profile_image.png)
+![image](https://drive.google.com/file/d/1fWV9gvTded3KGNvhzt9XP-FvWhlV2E_E/view?usp=drive_link)
 
 ## Hi there 👋
 
