@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1fWV9gvTded3KGNvhzt9XP-FvWhlV2E_E/view?usp=drive_link" alt="Logo" width="200">
+<img src="profile_image.png" width="100%" />
 
 ## Hi there 👋
 
