@@ -1,4 +1,4 @@
-<img src="profile_image2.png" width="100%" />
+<img src="profile_gif.gif" width="100%" />
 
 # Hi! Roboticist here...
 
