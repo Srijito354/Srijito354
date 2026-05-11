@@ -1,6 +1,6 @@
-<img src="profile_image.png" width="100%" />
+<img src="profile_image2.png" width="100%" />
 
-## Hi there 👋
+# Hi! Roboticist here...
 
 <!--
 **Srijito354/Srijito354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
