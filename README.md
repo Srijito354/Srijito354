@@ -30,7 +30,7 @@ My considerable projects include:
 - Building a Behavioral Cloning agent from scratch and testing it on the Udacity self-driving simulator. This involved manually collecting equal laps of data by driving both in the clock-wise and anti-clockwise directions to cancel out the left-turn bias in the data from the default set-up, and creating an action adapter for a Resnet-18 backbone to predict steering and throttle values. [Click here](https://github.com/Srijito354/Behavioral_cloning_self_driving.git)
 - Making a CLIP-based VQA (Visual Question Answering) model, with everything from the image and text encoder being implemented from scratch. [Click here](https://github.com/Srijito354/Latent-CLIP.git)
 
-## My socials:
+## 
 <p align="center">
 <a href="https://x.com/srijito74596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srijito74596" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/srijito-ghosh-243726256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srijito-ghosh-243726256" height="30" width="40" /></a>
