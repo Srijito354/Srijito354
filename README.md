@@ -4,7 +4,6 @@
 
 # <p align="center"> Hi! I am Srijito Ghosh </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Srijito354&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
