@@ -31,8 +31,7 @@ My considerable projects include:
 - Making a CLIP-based VQA (Visual Question Answering) model, with everything from the image and text encoder being implemented from scratch. [Click here](https://github.com/Srijito354/Latent-CLIP.git)
 
 ## My socials:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://x.com/srijito74596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srijito74596" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/srijito-ghosh-243726256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srijito-ghosh-243726256" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_panther16/profilecard/?igsh=dzY5bXd6cXI4MHRq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_panther16" height="30" width="40" /></a>
