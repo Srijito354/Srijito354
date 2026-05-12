@@ -2,7 +2,7 @@
   <img src="profile_gif.gif" alt="bg" width="1100" height="500"/>
 </p>
 
-# <p align="center"> Hi there, I'm Muskan Kumari! </p>
+# <p align="center"> Hi! I am Srijito Ghosh </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Srijito354&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
