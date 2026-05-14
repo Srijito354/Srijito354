@@ -23,6 +23,9 @@
 - I am a 3rd Computer Science and Engineering undergraduate student at the University Insitute of Technology, The University of Burdwan.
 - My current work involves reading and understanding seminal research work in the field of Generative AI and Robotics, while trying to implement them from scratch and making them adapt to my hardware and institutional infrastructure constraints. Such constraints make searching for efficiency not just an option but rather a requirement.
 
+## What I am currently working on:
+- I have started reading research material required for contributing to lerobot.
+
 ## Brief on what I have worked on:
 I had started with building basic image classifiers in the senior year of high school, post which I moved onto using APIs in my first year, but realised that architectural understanding is what interests me the most. This made me start reading research articles and their related blog-posts by the end of my second year examinations.
 My considerable projects include:
