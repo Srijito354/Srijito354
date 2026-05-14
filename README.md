@@ -25,6 +25,7 @@
 
 ## What I am currently working on:
 - I have started reading research material required for contributing to lerobot.
+- I recently completed reading the Swin Transformer and SmolVLA papers to better understand implementing efficient architectures to achieve efficiency and Edge-AI goals without compromising on model performance and precision.
 
 ## Brief on what I have worked on:
 I had started with building basic image classifiers in the senior year of high school, post which I moved onto using APIs in my first year, but realised that architectural understanding is what interests me the most. This made me start reading research articles and their related blog-posts by the end of my second year examinations.
